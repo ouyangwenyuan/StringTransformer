@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">String Transformers</string>
+    <string name="app_name">one array to xml</string>
+    <string name="app_name">two array to xml</string>
+    <string name="app_name">one array to plist</string>
+    <string name="app_name">two array to plist</string>
+    <string name="app_name">one xml and one array to plist</string>
+    <string name="app_name">one localizable.strings to two array</string>
+    <string name="app_name">two array to localizable.strings</string>
+</resources>
